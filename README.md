@@ -1,8 +1,10 @@
 # POC Spring Boot - H2 (memory DB)
 
-POC using Spring Boot and H2 (memory DB) to handle users, designed by layers: Controller - Service - DAO (Repository) - Entity, using REGEX to filter email and pass, using Jackson Objet Mapper
+POC using Spring Boot and H2 (memory DB) to handle users
 
-##  users-app
+### users-app was designed by layers: Controller - Service - DAO (Repository) - Entity, using REGEX to filter email and pass, using Jackson Objet Mapper
+
+
 
 ### POC is using layers: Controller - Service - DAO (Repository) - Entity
 
