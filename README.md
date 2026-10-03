@@ -1,4 +1,8 @@
-# users-app
+# POC Spring Boot - H2 (memory DB)
+
+##  users-app
+
+### POC is using layers: Controller - Service - Entity - DAO
 
 ### Para construir 
 mvn install
