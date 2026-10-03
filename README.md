@@ -2,7 +2,7 @@
 
 ##  users-app
 
-### POC is using layers: Controller - Service - Entity - DAO
+### POC is using layers: Controller - Service - DAO (Repository) - Entity
 
 ### Para construir 
 mvn install
